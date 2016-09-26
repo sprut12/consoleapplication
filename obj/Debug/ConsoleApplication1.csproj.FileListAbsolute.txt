@@ -1,0 +1,9 @@
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\s\Project\List\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
